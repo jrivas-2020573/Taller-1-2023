@@ -1,0 +1,49 @@
+#bg{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/066/676/original/beautiful-night-scene-illustration-with-mountain-vector.jpg);
+}
+
+#tarjetas{
+    margin-top: 4%;   
+}
+
+
+#texto{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+#textoInfo{
+    color: white;
+    padding-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#textoSecundario{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+}
+
+li{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#barraNav{
+    background-color: rgb(32, 32, 177);
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
